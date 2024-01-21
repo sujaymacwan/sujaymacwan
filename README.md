@@ -3,9 +3,9 @@
 > To Infinity, And Beyond!
 
 — Buzz
- 🔭 I’m currently working on my Python and Machine Learning skills
-👯 I’m looking forward to collaborating on projects related to ML-OPs and Big Data tools
-- 📫 How to reach me: Shoot me a Dm on Linkedin or Email (macwan.sujay@gmail.com)
+<br />🔭 I’m currently working on my Python and Machine Learning skills
+<br />👯 I’m looking forward to collaborating on projects related to ML-OPs and Big Data tools
+<br />📫 How to reach me: Shoot me a Dm on Linkedin or Email (macwan.sujay@gmail.com)
 
 <!--
 **sujaymacwan/sujaymacwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
