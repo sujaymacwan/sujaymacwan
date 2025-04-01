@@ -4,8 +4,8 @@
 
 — Buzz
 <br />🔭 I’m currently working on my Python and Machine Learning skills
-<br />👯 I’m looking forward to collaborating on projects related to ML-OPs and Big Data tools
-<br />📫 How to reach me: Shoot me a Dm on [Linkedin](https://www.linkedin.com/in/sujay-m-045ba4ba/) or [Email]((macwan.sujay@gmail.com)) (macwan.sujay@gmail.com) 
+<br />👯 I’m looking forward to collaborating on projects related to Data Analyst, ML-OPs and Big Data tools
+<!-- <br />📫 How to reach me: Shoot me a Dm on [Linkedin](https://www.linkedin.com/in/sujay-m-045ba4ba/) or [Email]((macwan.sujay@gmail.com)) (macwan.sujay@gmail.com) -->
 
 <!--
 **sujaymacwan/sujaymacwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
