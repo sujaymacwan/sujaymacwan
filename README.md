@@ -4,7 +4,7 @@
 
 — Buzz
 <br />🔭 I’m currently working on my Python and Machine Learning skills
-<br />👯 I’m looking forward to collaborating on projects related to Data Analyst, ML-OPs and Big Data tools
+<br />👯 I’m looking forward to collaborating on projects related to Data Scientist, Business Analyst and Big Data tools
 <!-- <br />📫 How to reach me: Shoot me a Dm on [Linkedin](https://www.linkedin.com/in/sujay-m-045ba4ba/) or [Email]((macwan.sujay@gmail.com)) (macwan.sujay@gmail.com) -->
 
 <!--
